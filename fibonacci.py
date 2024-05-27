@@ -25,6 +25,3 @@ print('*****************************************')
 salida = calcular_fibonacci(20)
 for i in salida:
     print(i)
-
-
-    # skfssdfjskfshkjh dskgfhdfikgh sdf
